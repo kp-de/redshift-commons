@@ -1,0 +1,1 @@
+-- DDL script to create a Date dimension with commonly used columns
